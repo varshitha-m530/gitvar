@@ -1,0 +1,2 @@
+# gitvar
+remote
